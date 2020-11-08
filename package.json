@@ -3,9 +3,8 @@
     "description": "a really cool app",
     "version": "1.0.0",
     "engines": {
-      "node": "12.x",
-      "scripts": {
-        "start": "node your-script.js"
-    }
+      "node": "12.x"
+    },
+      "start": "node your-script.js"
   }
   
